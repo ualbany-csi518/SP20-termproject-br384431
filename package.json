@@ -1,0 +1,24 @@
+{
+  "name": "Server-Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakeroy01/Server-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakeroy01/Server-Project/issues"
+  },
+  "homepage": "https://github.com/blakeroy01/Server-Project#readme",
+  "dependencies": {
+    "mongodb": "^3.1.10",
+    "server": "^1.0.27"
+  }
+}
