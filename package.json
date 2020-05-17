@@ -19,6 +19,8 @@
   "homepage": "https://github.com/blakeroy01/Server-Project#readme",
   "dependencies": {
     "mongodb": "^3.1.10",
-    "server": "^1.0.27"
+    "mongoose": "^5.9.14",
+    "server": "^1.0.27",
+    "validator": "^13.0.0"
   }
 }
